@@ -30,7 +30,7 @@
   "author": "Ahmed Rafiullah",
   "license": "MIT",
   "devDependencies": {
-    "metro-react-native-babel-preset": "^0.64.0"
+    "metro-react-native-babel-preset": "^0.64.3"
   },
   "peerDependencies": {
     "react-native-webview": "^10.9.1"
