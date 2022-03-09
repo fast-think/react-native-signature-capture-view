@@ -33,6 +33,6 @@
     "metro-react-native-babel-preset": "^0.64.3"
   },
   "peerDependencies": {
-    "react-native-webview": "^10.10.2"
+    "react-native-webview": "~10.10.2"
   }
 }
